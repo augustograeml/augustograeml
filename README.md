@@ -21,7 +21,7 @@
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=R&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
